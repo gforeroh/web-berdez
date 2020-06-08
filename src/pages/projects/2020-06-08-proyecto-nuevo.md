@@ -1,6 +1,6 @@
 ---
 templateKey: projects-post-template
-title: projects-post-template
+title: Proyecto prueba nuevo
 date: 2020-06-08T01:49:45.408Z
 description: Descripción del proyecto
 featuredpost: true
