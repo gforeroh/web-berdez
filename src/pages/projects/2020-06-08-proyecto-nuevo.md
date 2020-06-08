@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Proyecto nuevo
+title: Proyecto nuevo Blanco
 date: 2020-06-08T01:49:45.408Z
 description: Descripción del proyecto
 featuredpost: true
