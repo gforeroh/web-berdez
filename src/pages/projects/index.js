@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from '../../components/Layout'
+import ProjectsRoll from '../../components/ProjectsRoll'
 
 const Projects = () => {
   return (
@@ -25,7 +26,7 @@ const Projects = () => {
       <section className="section">
         <div className="container">
           <div className="content">
-              Lista de proyectos
+              <ProjectsRoll />
             </div>
         </div>
       </section>
