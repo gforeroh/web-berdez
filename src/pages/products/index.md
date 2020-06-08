@@ -1,101 +1,101 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Nuestro cafe
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Gran café con conciencia
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kaldi es el lugar ideal para los amantes del café que quieren aprender sobre su
+  origen de Java y apoyo a los agricultores que lo cultivaron. Tomamos producción de café,
+  tostar y preparar cerveza en serio y nos complace transmitir ese conocimiento a
+  nadie.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Vendemos granos de café verde y tostado que se obtienen directamente de
+        agricultores independientes y cooperativas agrícolas. Estamos orgullosos de ofrecer un
+        variedad de granos de café cultivados con gran cuidado por el medio ambiente y
+        comunidades locales. Consulte nuestra publicación o contáctenos directamente para obtener información actualizada
+        disponibilidad.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Ofrecemos una pequeña, pero cuidadosamente seleccionada selección de equipo de elaboración y
+        herramientas para todos los gustos y niveles de experiencia. No importa si asas tu
+        frijoles propios o acaba de comprar su primera prensa francesa, encontrará un gadget
+        para enamorarse en nuestra tienda.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        ¿Le encanta una buena taza de café, pero nunca supo cómo hacer una? Compre
+        nuevo y elegante Chemex pero no tienes idea de cómo usarlo? No te preocupes, estamos aquí.
+        ayudar. Puede programar una consulta personalizada 1-a-1 con nuestros baristas
+        para aprender todo lo que quieras saber sobre tostar y preparar café.
+        Envíenos un correo electrónico o llame a la tienda para más detalles.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Creemos que el buen café tiene el poder de unir a las personas.
+        Es por eso que decidimos convertir una esquina de nuestra tienda en una reunión acogedora
+        espacio donde puedes pasar el rato con otros amantes del café y aprender sobre
+        Técnicas para hacer café. Toda la obra de arte en exhibición es para
+        rebaja. El precio total que paga va al artista.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Kaldi es el lugar ideal para los amantes del café que quieren aprender sobre su
+    origen de Java y apoyo a los agricultores que lo cultivaron. Tomamos cafe
+    producción, tostado y elaboración de cerveza en serio y estamos contentos de pasar eso
+    conocimiento para cualquiera. Esta es una edición a través de identidad ...
 main:
-  heading: Great coffee with no compromises
+  heading: Gran café sin compromisos
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Mantenemos nuestro café con los más altos estándares desde el arbusto hasta la taza.
+    Es por eso que somos meticulosos y transparentes sobre cada paso del café.
+    viaje. Visitamos personalmente cada granja para asegurarnos de que las condiciones sean
+    óptimo para las plantas, los agricultores y el medio ambiente local.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Un primer plano de un filtro de papel lleno de café molido
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Una taza de café verde sobre una mesa de madera
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Granos de café
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Gerardo Forero
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      La primera vez que probé el café de Kaldi, ni siquiera podía creer que eso fuera
+      lo mismo que he estado bebiendo todas las mañanas.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Kaldi es el lugar para ir si quieres un café de la mejor calidad. Amo su
+      posición sobre el empoderamiento de los agricultores y la transparencia.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Suscripciones mensuales
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Hacemos que sea fácil hacer que un excelente café sea parte de su vida. Elige uno de nuestros
+    planes de suscripción mensual para recibir un excelente café en su puerta cada uno
+    mes. Contáctenos para obtener más detalles e información de pago.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfecto para el bebedor que le gusta disfrutar de 1-2 tazas por día.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - 3 libras de café por mes
+        - Judías verdes o asadas
+        - Una o dos variedades de frijoles
+      plan: Pequeño
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: 'Ideal para bebedores ávidos, parejas amantes de Java y multitudes más grandes.'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - 6 libras de café por mes
+        - Judías verdes o asadas
+        - Hasta 4 variedades diferentes de frijoles.
+      plan: Grande
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: ¿Quieres unos pequeños lotes de diferentes variedades? Prueba nuestro plan personalizado
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Lo que sea que necesites
+        - Judías verdes o asadas
+        - variedades ilimitadas
+      plan: Personalizado
       price: '??'
 ---

@@ -2,6 +2,7 @@ import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
 
+/* eslint-disable */
 function encode(data) {
   const formData = new FormData()
 

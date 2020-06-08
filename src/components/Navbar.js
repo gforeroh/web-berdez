@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
+/* eslint-disable */
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -60,20 +61,29 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
+            <Link className="navbar-item" to="/">
+                Inicio
               </Link>
-              <Link className="navbar-item" to="/products">
-                Products
+              <Link className="navbar-item" to="/about">
+                Nosotros
+              </Link>
+              <Link className="navbar-item" to="/projects">
+                Proyectos
               </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
+              <Link className="navbar-item" to="/users">
+                Usuarios
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
+              <Link className="navbar-item" to="/contact">
+                Contacto
+              </Link>
+              <Link className="navbar-item" to="/success-stories">
+                Casos de éxito
+              </Link>
+              <Link className="navbar-item" to="/products">
+                Productos
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
