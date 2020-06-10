@@ -2,7 +2,9 @@ locale: 'es'
 
 backend:
   name: github
-  repo: gforeroh/web-berdez
+  # repo: gforeroh/web-berdez
+  repo: linktic/berdez_netlify
+
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
