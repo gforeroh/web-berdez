@@ -1,11 +1,11 @@
+  # repo: linktic/berdez_netlify
 locale: 'es'
 
 backend:
   name: github
   repo: gforeroh/web-berdez
-  # repo: linktic/berdez_netlify
-
   branch: master
+
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
@@ -36,7 +36,7 @@ collections:
     label: "Páginas"
     files:
       - file: "src/pages/index.md"
-        label: "Landing Page"
+        label: "Pagina inicio"
         name: "index"
         fields:
           - {label: "Clave de plantilla", name: "templateKey", widget: "hidden", default: "index-page"}
@@ -86,14 +86,14 @@ collections:
                   ]
                 }
       - file: "src/pages/about/index.md"
-        label: "About"
+        label: "Nosotros"
         name: "about"
         fields:
           - {label: "Clave de plantilla", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Título", name: "title", widget: "string"}
           - {label: "Cuerpo", name: "body", widget: "markdown"}
       - file: "src/pages/products/index.md"
-        label: "Products Page"
+        label: "Productos"
         name: "products"
         fields:
           - {label: "Clave de plantilla", name: "templateKey", widget: "hidden", default: "product-page"}
