@@ -12,7 +12,7 @@
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
-locale: 'es'
+# locale: 'es'
 media_folder: static/img
 public_folder: /img
 
