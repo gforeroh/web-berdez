@@ -1,11 +1,10 @@
   # repo: linktic/berdez_netlify
-locale: 'es'
-
-backend:
-  name: github
-  repo: gforeroh/web-berdez
-  branch: master
-
+  
+  backend:
+    name: test-repo
+    repo: gforeroh/web-berdez
+    branch: master
+    
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
@@ -13,6 +12,7 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
+locale: 'es'
 media_folder: static/img
 public_folder: /img
 
