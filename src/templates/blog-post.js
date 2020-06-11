@@ -6,15 +6,21 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet,
-}) => {
+export const BlogPostTemplate = (props) => {
+  const {
+    content,
+    contentComponent,
+    description,
+    tags,
+    title,
+    helmet,
+  } = props;
+
   const PostContent = contentComponent || Content
+
+  // console.log(props);
+  
+  
 
   return (
     <section className="section">
