@@ -26,8 +26,8 @@ collections:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Fecha de publicación", name: "date", widget: "datetime"}
       - {label: "Descripción", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Publicación destacada", name: "featuredpost", widget: "boolean"}
+      - {label: "Foto principal", name: "featuredimage", widget: image}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
@@ -168,7 +168,7 @@ collections:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Fecha de publicación", name: "date", widget: "datetime"}
       - {label: "Descripción", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Publicación destacada", name: "featuredpost", widget: "boolean"}
+      - {label: "Foto principal", name: "featuredimage", widget: image}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
