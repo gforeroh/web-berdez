@@ -35,7 +35,7 @@ collections:
     label: "Páginas"
     files:
       - file: "src/pages/index.md"
-        label: "Pagina inicio"
+        label: "Página inicio"
         name: "index"
         fields:
           - {label: "Clave de plantilla", name: "templateKey", widget: "hidden", default: "index-page"}
