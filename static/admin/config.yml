@@ -2,6 +2,7 @@ backend:
   name: github
   repo: gforeroh/web-berdez
   branch: master
+  preview_context: my-provider/deployment
   
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
